@@ -5,4 +5,3 @@ def reverse_array(arr):
       left += 1
       right -= 1
   return arr
-
